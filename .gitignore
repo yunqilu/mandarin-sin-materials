@@ -1,0 +1,14 @@
+# Test materials are licensed / copyrighted. Never commit audio or score sheets.
+*.wav
+*.aup3
+*.xls
+*.xlsx
+*.pdf
+*.pptx
+*.docx
+# Generated files
+intermediate/
+__pycache__/
+*.pyc
+.DS_Store
+.claude/
